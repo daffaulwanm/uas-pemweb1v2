@@ -1,4 +1,4 @@
-// for perkalian
+// perkalian
 function cekJawaban() {
     var jawaban1 = parseInt(document.getElementById("perkalian1").value);
     var jawaban2 = parseInt(document.getElementById("perkalian2").value);
